@@ -153,6 +153,10 @@ a:focus {
     font-size: 40px;
 }
 
+.intro .intro-body .brand-heading img {
+    max-width: 100%;
+}
+
 .intro .intro-body .intro-text {
     font-size: 18px;
 }
